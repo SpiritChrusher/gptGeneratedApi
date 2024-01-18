@@ -1,0 +1,6 @@
+@gptGeneratedApi_HostAddress = http://localhost:5037
+
+GET {{gptGeneratedApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
